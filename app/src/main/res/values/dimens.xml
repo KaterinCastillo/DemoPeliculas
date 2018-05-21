@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_estandar">16dp</dimen>
+    <dimen name="margen_izquierda_contenido">16dp</dimen>
+    <dimen name="sizeImage">250dp</dimen>
+
+
+</resources>
